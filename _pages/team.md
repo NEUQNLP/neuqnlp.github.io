@@ -142,7 +142,7 @@ permalink: /team/
   <i>
     {{ member.duration }} 
     <br>
-  <span style="color: red;">{{ member.info }}</span>
+  Current: <span style="color: red;">{{ member.info }}</span>
   </i>
   <br>
   {% if member.url.personal_site != nil %}

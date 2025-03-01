@@ -142,7 +142,7 @@ permalink: /team/
   <i>
     {{ member.duration }} 
     <br>
-  Current: <span style="color: red;">{{ member.info }}</span>
+   <span style="color: red;">{{ member.info }}</span>
   </i>
   <br>
   {% if member.url.personal_site != nil %}
@@ -196,7 +196,7 @@ permalink: /team/
     <br>
     <!-- co-supervised with {{ member.cosupervision }}
     <br>  -->
-    Current: {{ member.info }}
+   <span style="color: red;">{{ member.info }}</span>
   </i>
   <br>
   {% if member.url.personal_site != nil %}

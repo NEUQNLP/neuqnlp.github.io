@@ -1,0 +1,23 @@
+- name: Ling Chen
+  photo: ling.jpg
+  info: Professor
+  email: PLACEHOLDER
+  affiliate: University of Technology Sydney
+  role: Group founder & Co-lead
+  url:
+    personal_site: https://profiles.uts.edu.au/Ling.Chen
+    google_scholar: https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en
+    github: 
+    linkedin:
+
+- name: Meng Fang
+  photo: meng.jpg
+  info: Assistant Professor
+  email: PLACEHOLDER
+  affiliate: University of Liverpool
+  role: Group founder & Co-lead
+  url:
+    personal_site: https://mengf1.github.io/
+    google_scholar: https://scholar.google.com/citations?user=IcNYP1oAAAAJ&hl=en
+    github: https://github.com/hyintell/
+    linkedin:

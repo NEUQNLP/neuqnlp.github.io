@@ -1,0 +1,39 @@
+- title: "topicx: Clustering with Contextual Embeddings for Topics"
+  image: topic_model_framework.jpg
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  description: "A framework for running topic models via clustering contextual embeddings. 
+    By clustering embeddings obtained from pre-trained language models (e.g., BERT) along 
+    with a word-selecting method, we can obtain coherent and diverse topics, which 
+    are simpler and more efficient than neural topic models.
+  "
+  code: https://github.com/hyintell/topicx
+  page: https://towardsdatascience.com/clustering-contextual-embeddings-for-topic-model-1fb15c45b1bd
+
+
+- title: "Stay Moral and Explore: Learn to Behave Morally in Text-based Games"
+  image: moral_tbg.png
+  year: 2023
+  authors: Zijing Shi*, Meng Fang*, Yunqiu Xu, Ling Chen, Yali Du
+  description: "A general algorithm is named Moral Awareness Adaptive Learning (MorAL). 
+    It boosts an agent's moral capacity. 
+    This is achieved using a moral-aware learning model plugin. 
+    The algorithm lets the agent learn tasks and morality adaptively."
+  code: https://github.com/winni18/MorAL
+  page: https://openreview.net/pdf?id=CtS2Rs_aYk
+
+
+- title: "Self-imitation Learning for Action Generation in Text-based Games"
+  image: csm_tbg.png
+  year: 2023
+  authors: Zijing Shi, Yunqiu Xu, Meng Fang, Ling Chen
+  description: "A confidence-based self-imitation model generates action candidates for the RL agent in text-based games. 
+  It utilizes self-imitation learning to rank and leverage valuable past trajectories. 
+  Also, a confidence-based strategy is used to assess the LM’s confidence relative to a state.
+  "
+  code: https://github.com/winni18/CSM
+  page: https://aclanthology.org/2023.eacl-main.50.pdf
+
+
+
+

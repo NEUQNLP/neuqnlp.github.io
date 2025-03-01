@@ -1,0 +1,62 @@
+
+
+- name: Zijing Shi
+  photo: zijing.jpg
+  duration: 2022
+  cosupervision: Hua Zuo
+  role: Reinforcement Learning in Text-Based Games
+  url:
+    personal_site: https://winni18.github.io/
+    google_scholar: https://scholar.google.com/citations?user=dIIHQaMAAAAJ&hl
+    github: https://github.com/winni18
+    linkedin: https://www.linkedin.com/in/zijing-shi-83100510b/
+
+- name: Wanqi Yang
+  photo: wanqi.jpg
+  duration: 2022
+  cosupervision: 
+  role: Multimodal Benchmark Evaluation in Specific Domains
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Mingze Zhong
+  photo: mingze.jpeg
+  duration: 2023
+  cosupervision: Hua Zuo
+  role:
+    url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin:
+
+- name: Biao Wu
+  photo: biaowu.jpg
+  duration: 2024
+  cosupervision: Jie Lu & Mo Namazi
+  role: Reinforcement Learning Agents for Multimodal Tasks
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com.au/citations?hl=en&user=Y3SBBWMAAAAJ
+    github: https://github.com/White65534?tab=repositories
+    linkedin: 
+
+
+
+- name: Beibei Yu
+  photo: yubei.jpg
+  duration: 2024
+  cosupervision: Jie Lu & Mo Namazi
+  role: Prompts-based Agents for Multimodal Tasks
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=pFn3Bv4AAAAJ
+    github: https://github.com/1423test
+    linkedin: https://www.linkedin.com/in/beibei-yu-83694331a/
+
+
+
+

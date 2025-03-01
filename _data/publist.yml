@@ -1,0 +1,214 @@
+
+
+- title: "Monte Carlo Planning with Large Language Model for Text-Based Games"
+  year: 2025
+  authors: Zijing Shi, Meng Fang, Ling Chen
+  venue: ICLR
+  link:
+    url: 
+    code:  
+
+
+
+- title: "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models"
+  year: 2025
+  authors: Wanqi Yang, Yanda Li, Meng Fang, Yunchao Wei, Tianyi Zhou, Ling Chen
+  venue: NAACL
+  link:
+    url: https://arxiv.org/abs/2411.14842
+    code:  
+
+
+
+
+
+
+- title: "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies"
+  year: 2025
+  authors: Zirui Song, Guangxian Ouyang, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
+  venue: NAACL
+  link:
+    url: https://arxiv.org/abs/2411.00781
+    code:  
+
+
+- title: "Detecting Conversational Mental Manipulation with Intent-Aware Prompting"
+  year: 2025
+  authors: Jiayuan Ma, Hongbin Na, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
+  venue: COLING
+  link:
+    url: https://arxiv.org/abs/2412.08414
+    code:  
+
+
+
+
+    
+
+- title: "MedINST: Meta Dataset of Biomedical Instructions."
+  year: 2024
+  authors: Wenhan Han, Meng Fang, Zihan Zhang, Yu Yin, Zirui Song, Ling Chen, Mykola Pechenizkiy, Qingyu Chen
+  venue: EMNLP
+  link:
+    url: https://arxiv.org/abs/2410.13458
+    code:  https://github.com/aialt/MedINST
+
+
+
+
+
+- title: "Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering."
+  year: 2024
+  authors: Wanqi Yang, Yanda Li, Meng Fang, Ling Chen.
+  venue: EMNLP
+  link:
+    url: https://www.arxiv.org/abs/2409.16909
+    code:  
+
+
+
+
+- title: "RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering"
+  year: 2024
+  authors: Zihan Zhang, Meng Fang, Ling Chen
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/abs/2402.16457
+    code: https://github.com/hyintell/RetrievalQA
+
+
+
+
+
+
+
+- title: "More than Minorities and Majorities: Understanding Multilateral Bias in Language Generation"
+  year: 2024
+  authors: Jiaxu Zhao, Zijing Shi, Yitong Li, Yulong Pei, Ling Chen, Meng Fang, Mykola Pechenizkiy
+  venue: ACL (Findings)
+  link:
+    url: 
+    code: 
+
+- title: "Enhanced Visual Instruction Tuning with Synthesized Image-Dialogue Data"
+  year: 2024
+  authors: Yanda Li, Chi Zhang, Gang Yu, Wanqi Yang, Zhibin Wang, Bin Fu, Guosheng Lin, Chunhua Shen, Ling Chen, Yunchao Wei
+  venue: ACL (Findings)
+  link:
+    url: https://arxiv.org/abs/2308.10253
+    code: https://github.com/icoz69/StableLLAVA
+
+- title: "Large Language Models are Neurosymbolic Reasoners"
+  year: 2024
+  authors: Meng Fang\*, Shilong Deng\*, Yudi Zhang\*, Zijing Shi, Ling Chen, Mykola Pechenizkiy, Jun Wang
+  venue: AAAI
+  link:
+    url: https://arxiv.org/abs/2401.09334
+    code: 
+
+- title: "Human-Guided Moral Decision Making in Text-based Games"
+  year: 2024
+  authors: Zijing Shi, Meng Fang, Ling Chen, Yali Du, Jun Wang
+  venue: AAAI
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/30155
+    code: 
+
+- title: "How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"
+  year: 2023
+  authors: Zihan Zhang\*, Meng Fang\*, Ling Chen, Mohammad-Reza Namazi-Rad, Jun Wang
+  venue: EMNLP
+  link:
+    url: https://arxiv.org/abs/2310.07343
+    code: https://github.com/hyintell/awesome-refreshing-llms
+
+- title: "Turn-Level Active Learning for Dialogue State Tracking"
+  year: 2023
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  venue: EMNLP
+  link:
+    url: https://arxiv.org/abs/2310.14513
+    code: https://github.com/hyintell/AL-DST
+
+- title: "CITB: A Benchmark for Continual Instruction Tuning"
+  year: 2023
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  venue: EMNLP (Findings)
+  link:
+    url: https://arxiv.org/abs/2310.14510
+    code: https://github.com/hyintell/CITB
+
+- title: "CHBias: Bias Evaluation and Mitigation of Chinese Conversational Language Models"
+  year: 2023
+  authors: Jiaxu Zhao\*, Meng Fang\*, Zijing Shi, Yitong Li, Ling Chen, Mykola Pechenizkiy
+  venue: ACL
+  link:
+    url: https://aclanthology.org/2023.acl-long.757/
+    code: https://github.com/hyintell/CHBias
+
+- title: "Stay Moral and Explore: Learn to Behave Morally in Text-based Games"
+  year: 2023
+  authors: Zijing Shi\*, Meng Fang\*, Yunqiu Xu, Ling Chen, Yali Du
+  venue: ICLR
+  link:
+    url: https://openreview.net/forum?id=CtS2Rs_aYk
+    code: https://github.com/winni18/MorAL
+
+- title: "Self-imitation Learning for Action Generation in Text-based Games"
+  year: 2023
+  authors: Zijing Shi, Yunqiu Xu, Meng Fang, Ling Chen
+  venue: EACL
+  link:
+    url: https://aclanthology.org/2023.eacl-main.50/
+    code: https://github.com/winni18/CSM
+
+- title: "Perceiving the World: Question-guided Reinforcement Learning for Text-based Games"
+  year: 2022
+  authors: Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang
+  venue: ACL
+  link:
+    url: https://aclanthology.org/2022.acl-long.41/
+    code: https://github.com/YunqiuXu/QWA
+
+- title: "Fire Burns, Sword Cuts: Commonsense Inductive Bias for Exploration in Text-based Games"
+  year: 2022
+  authors: Dongwon Kelvin Ryu, Ehsan Shareghi, Meng Fang, Yunqiu Xu, Shirui Pan, Reza Haf
+  venue: ACL (Short)
+  link:
+    url: https://aclanthology.org/2022.acl-short.56/
+    code: https://github.com/ktr0921/comm-expl-kg-a2c
+
+- title: "Is Neural Topic Modelling Better than Clustering? An Empirical Study on Clustering with Contextual Embeddings for Topics"
+  year: 2022
+  authors: Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad
+  venue: NAACL
+  link:
+    url: https://aclanthology.org/2022.naacl-main.285/
+    code: https://github.com/hyintell/topicx
+
+- title: "Generalization in Text-based Games via Hierarchical Reinforcement Learning"
+  year: 2021
+  authors: Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Chengqi Zhang
+  venue: EMNLP (Findings)
+  link:
+    url: https://aclanthology.org/2021.findings-emnlp.116/
+    code: https://github.com/YunqiuXu/H-KGA
+
+- title: "Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games"
+  year: 2020
+  authors: Yunqiu Xu\*, Meng Fang\*, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang
+  venue: NeurIPS 
+  link:
+    url: https://openreview.net/forum?id=z0kH3aCmrBd
+    code: https://github.com/YunqiuXu/SHA-KG
+
+
+- title: "Deep Reinforcement Learning with Transformers for Text Adventure Games"
+  year: 2020
+  authors: Yunqiu Xu, Ling Chen, Meng Fang, Yang Wang, Chengqi Zhang
+  venue: IEEE Conference on Games (CoG) 
+  link:
+    url: https://ieeexplore.ieee.org/document/9231622
+    code: 
+
+

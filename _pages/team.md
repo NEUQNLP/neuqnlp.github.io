@@ -86,10 +86,8 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>
     since {{ member.duration }} 
-    {% if member.info != nil %}
     <br>
     <span style="color: red;">{{ member.info }}</span>
-    {% endif %}
   </i>
   <br>
   {% if member.url.personal_site != nil %}

@@ -8,6 +8,9 @@ permalink: /publications/
 
 
 # Publications
+<span style="color: red;">All publications was done during the students study in NEUQ LIS.</span>
+<br>
+<b>Bolded text</b> represents students in this lab
 
 ## 2025
 ---

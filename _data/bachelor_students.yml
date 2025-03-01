@@ -1,11 +1,224 @@
-- name: Zirui Song
-  photo: zirui.jpg
-  duration: 2024
+- name: Yusong Zhang
+  photo: zhangyusong.jpg
+  duration: 2023
   cosupervision:
-  info:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Mingxuan Cui
+  photo: zhangyusong.jpg
+  duration: 2023
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+
+
+- name: Guangxian Ouyang
+  photo: ouyangguangxian.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Fengxian Ji
+  photo: Jifengxian.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Qirui Zhao
+  photo: zhaoqirui.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Bin Yan
+  photo: yanbin.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Yubin Zhang
+  photo: zhangyubin.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Zhe Fu
+  photo: fuzhe.jpg
+  duration: 2022
+  cosupervision:
+  info: Exchange Student in University of Technology Sydney 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Zhexuan Cui
+  photo: cuizhexuan.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Helin Wang
+  photo: wanghelin.jpg
+  duration: 2021
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Zhengzhao Lai
+  photo: laizhengzhao.jpg
+  duration: 2021
+  cosupervision:
+  info: Master Student in Chinese University of Hong Kong, Shenzhen 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Helin Wang
+  photo: wanghelin.jpg
+  duration: 2021
+  cosupervision:
+  info: Lishui Public Security Bureau
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Jingpu Yang
+  photo: yangjingpu.jpg
+  duration: 2021
+  cosupervision:
+  info: Master Studnet In Beihang University 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Xuening Wang
+  photo: wangxuening.jpg
+  duration: 2021
+  cosupervision:
+  info: Master Studnet In Beijing Institute of Technology
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Yixuan Wang
+  photo: wangxuening.jpg
+  duration: 2021
+  cosupervision:
+  info: Master Studnet In Beijing Institute of Technology
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Weixuan Lv
+  photo: lvweixuan.jpg
+  duration: 2021
+  cosupervision:
+  info: Master Student in East China Normal University
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+
+- name: Jingfeng Wei
+  photo: Weijinfeng.jpg
+  duration: 2021
+  cosupervision:
+  info: Research Assistant in Hong Kong University of Science and Technology
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?hl=en&user=dgh5ptoAAAAJ
+    github: 
+    linkedin:
+
+
+
+- name: Bairui Zhang
+  photo: zhangbairui.jpg
+  duration: 2021
+  cosupervision:
+  info: Student in Chinese University of Hong Kong, Shenzhen 
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?user=NVV0oCAAAAAJ&hl=en
+    github: 
+    linkedin: 
+
+
+- name: Zirui Song
+  photo: songzirui.jpg
+  duration: 2021
+  cosupervision:
+  info: PhD Student in Mohamed bin Zayed University of Artificial Intelligence
   url:
     personal_site: https://ziruisongbest.github.io/
     google_scholar: https://scholar.google.com.sg/citations?hl=en&user=fmKRIPUAAAAJ
     github: https://github.com/ZiruiSongBest
     linkedin: https://www.linkedin.com/in/zirui-song-333863289
+
 

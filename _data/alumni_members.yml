@@ -1,22 +1,24 @@
-- name: Yunqiu Xu
-  photo: yunqiu.jpeg
-  duration: PhD (2018 - 2022)
-  cosupervision: Chengqi Zhang
-  info: Machine Learning Engineer, TikTok
+
+- name: Zehua Han
+  photo: hanzehua.jpg
+  duration: 2020 - 2024)
+  cosupervision: 
+  info: Master Student, Beihang University
   url:
     personal_site: 
-    google_scholar: https://scholar.google.com/citations?user=6kfxdwoAAAAJ
+    google_scholar: 
     github: 
-    linkedin: https://www.linkedin.com/in/yunqiu-xu-53052ab4/
+    linkedin: 
 
 
-- name: Zihan Zhang
-  photo: zihanz.jpg
-  duration: PhD (2021 - 2024)
-  cosupervision: Jie Lu & Mo Namazi
-  info: Machine Learning Engineer, EML(Employers Mutual Limited)
+- name: Longyan Hong
+  photo: honglongyan.jpeg
+  duration:  2019 - 2023
+  cosupervision: 
+  info: R&D Engineer, Xiaomi
   url:
-    personal_site: https://zhangzihangit.github.io/
-    google_scholar: https://scholar.google.com/citations?user=pkaouXAAAAAJ&hl=en
-    github: https://github.com/ZhangzihanGit
-    linkedin: https://www.linkedin.com/in/zihan-zhang-a40855172/
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+

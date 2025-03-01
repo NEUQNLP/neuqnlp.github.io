@@ -33,8 +33,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>
    {{member.info}}
-   <br>
-   {{member.rule}}
+
   </i>
   <br>
   {% if member.url.personal_site != nil %}

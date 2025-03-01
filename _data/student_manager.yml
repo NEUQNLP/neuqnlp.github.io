@@ -1,6 +1,6 @@
 - name: Qian Jiang
-  photo: JiangQian.jpg
-  duration: 2025
+  photo: jiangqian.jpg
+  duration: 2023
   cosupervision:
   info:
   url:
@@ -11,7 +11,7 @@
 
 - name: ZheCheng Shi
   photo: shizhecheng.jpg
-  duration: 2024
+  duration: 2022
   cosupervision:
   info:
   url:
@@ -23,7 +23,7 @@
 
 - name: Jingpu Yang
   photo: yangjingpu.jpg
-  duration: 2023
+  duration: 2021
   cosupervision:
   info:
   url:
@@ -34,7 +34,7 @@
 
 - name: Yiqi Duan
   photo: duanyiqi.jpg
-  duration: 2022
+  duration: 2020
   cosupervision:
   info:
   url:
@@ -43,3 +43,24 @@
     github: 
     linkedin: 
 
+- name: Yuheng Ji
+  photo: jiyuheng.jpg
+  duration: 2019
+  cosupervision:
+  info: Master Student in Chinese Academy of Science, Institute of Automation.
+  url:
+    personal_site:  https://yuheng2000.github.io/
+    google_scholar: https://scholar.google.com/citations?user=X4ILYUQAAAAJ&hl=en/
+    github: 
+    linkedin: 
+
+- name: Yue Liu
+  photo: liuyue.jpeg
+  duration:  2018
+  cosupervision: 
+  info: PhD Student at National University of Singapore
+  url:
+    personal_site: https://yueliu1999.github.io/  
+    google_scholar: https://scholar.google.com/citations?user=5tfpu3MAAAAJ&hl=zh-CN/
+    github: 
+    linkedin: 

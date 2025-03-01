@@ -126,7 +126,7 @@ permalink: /team/
 
 
 
-## Bachelor (Honours) Students
+## Bachelor  Students
 {% assign number_printed = 0 %}
 {% for member in site.data.bachelor_students %}
 
@@ -140,8 +140,11 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="avatar_img"  style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>
-    since {{ member.duration }} 
+     {{ member.duration }} 
+    <br>
+
     <!-- co-supervised with {{ member.cosupervision }} -->
+    Current: {{ member.info }}
   </i>
   <br>
   {% if member.url.personal_site != nil %}

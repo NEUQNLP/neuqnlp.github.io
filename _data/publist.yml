@@ -1,14 +1,14 @@
 - title: "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies"
   year: 2025
   authors: <b>Zirui Song†</b>, <b>Guangxian Ouyang†</b>, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
-  venue: NAACL
+  venue: NAACL 2025
   link:
     url: https://arxiv.org/abs/2411.00781
 
 - title: "Open-world Radio Frequency Fingerprint Identification via Augmented Semi-supervised Learning"
   year: 2025
   authors: <b>Zehua Han</b>, Jing Xiao, <b>Qirui Zhao</b>, <b>Zhexuan Cui</b>, Yufeng Wang, Duona Zhang, Wenrui Ding
-  venue: AAAI
+  venue: AAAI 2025
 
 - title: "Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework"
   year: 2025
@@ -20,7 +20,7 @@
 - title: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models"
   year: 2024
   authors: Rizhao Cai†, <b>Zirui Song†</b>, Dayan Guan, Zhenhao Chen, Xing Luo, Chenyu Yi, Alex Kot
-  venue: European Conference on Computer Vision
+  venue: ECCV, 2024
   link:
     url: https://arxiv.org/abs/2312.02896
 
@@ -36,14 +36,14 @@
 - title: "Efficient Reinforcement Learning via Decoupling Exploration and Utilization"
   year: 2024
   authors: <b>Jingpu Yang</b>, <b>Helin Wang</b>,<b>Qirui Zhao</b> , <b>Zhecheng Shi</b>, <b>Zirui Song</b>, Miao Fang
-  venue: Springer Nature
+  venue: ICIC 2024
   link:
     url: https://link.springer.com/chapter/10.1007/978-981-97-5581-3_32
 
 - title: "MatchSeg: Towards Better Segmentation via Reference Image Matching"
   year: 2024
   authors: Jiayu Huo†, Ruiqiang Xiao†, <b>Haotian Zheng†</b>, Yang Liu, Sébastien Ourselin, Rachel Sparks
-  venue: BIBM
+  venue: BIBM 2024
   link:
     url: https://arxiv.org/abs/2403.15901
 
@@ -76,14 +76,14 @@
     url: https://arxiv.org/abs/2411.02006
 
 - title: "PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection"
-  year: 2024
+  year: 2025  
   authors: Rui Zhao, Zeyu Zhang, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, <b>Zirui Song</b>, Xiuying Chen, Yang Zhao
   venue: arXiv
   link:
     url: https://arxiv.org/abs/2502.14063
 
 - title: "Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey"
-  year: 2024
+  year: 2025
   authors: <b>Zirui Song†</b>,<b>Bin Yan†</b>, Yuhan Liu, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
   venue: arXiv
   link:
@@ -93,6 +93,20 @@
   year: 2025
   authors: <b>Jingpu Yang</b>, Hang Zhang, Fengxian Ji, Yufeng Wang, Mingjie Wang, Yizhe Luo, Wenrui Ding
   venue: arXiv
+  link:
+    url: https://arxiv.org/pdf/2503.44196
+
+- title: "Dopra: Decoding over-accumulation penalization and re-allocation in specific weighting layer"
+  year: 2024
+  authors: <b>Jinfeng Wei</b>, Xiaofeng Zhang
+  venue: ACM MM 2024
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3664647.3681076
+
+- title: "PM-Jewelry: Personalized Multimodal Adaptation for Virtual Jewelry Try-On with Latent Diffusion"
+  year: 2024
+  authors: Yangfan He, Yinghui Xia, <b>Jinfeng Wei</b>, Tianyu Shi, Yang Jingsong
+  venue: NeurIPS 2024 Workshop
   link:
     url: https://arxiv.org/pdf/2503.44196
 

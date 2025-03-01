@@ -140,10 +140,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="avatar_img"  style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>
-     {{ member.duration }} 
-    <br>
-
-    <!-- co-supervised with {{ member.cosupervision }} -->
+    {{ member.duration }} 
     Current: {{ member.info }}
   </i>
   <br>

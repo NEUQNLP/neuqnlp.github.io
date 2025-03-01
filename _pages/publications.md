@@ -20,7 +20,7 @@ permalink: /publications/
   {% if publi.year == 2025 %}
 
   **{{ publi.title }}** <br />
-  <em>{{ publi.authors }} </em>
+  {{ publi.authors }}
   <br />
   in <ins>***{{ publi.venue }}***</ins>, &nbsp;
   <!-- [Paper]({{ publi.link.url }}){:target="_blank"},  -->
@@ -51,7 +51,7 @@ permalink: /publications/
   {% if publi.year == 2024 %}
 
   **{{ publi.title }}** <br />
-  <em>{{ publi.authors }} </em>
+  {{ publi.authors }}
   <br />
   in <ins>***{{ publi.venue }}***</ins>, &nbsp;
   <!-- [Paper]({{ publi.link.url }}){:target="_blank"},  -->

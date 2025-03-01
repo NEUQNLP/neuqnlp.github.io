@@ -1,25 +1,25 @@
 - title: "Hazards in Daily Life? Enabling Robots to Proactively Detect and Resolve Anomalies"
   year: 2025
-  authors: Zirui Song†, Guangxian Ouyang†, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
+  authors: <b>Zirui Song†</b>, <b>Guangxian Ouyang†</b>, Meng Fang, Hongbin Na, Zijing Shi, Zhenhao Chen, Yujie Fu, Zeyu Zhang, Shiyu Jiang, Miao Fang, Ling Chen, Xiuying Chen
   venue: NAACL
   link:
     url: https://arxiv.org/abs/2411.00781
 
 - title: "Open-world Radio Frequency Fingerprint Identification via Augmented Semi-supervised Learning"
   year: 2025
-  authors: Zehua Han, Jing Xiao, Qirui Zhao, Zhexuan Cui, Yufeng Wang, Duona Zhang, Wenrui Ding
+  authors: <b>Zehua Han</b>, Jing Xiao, <b>Qirui Zhao</b>, <b>Zhexuan Cui</b>, Yufeng Wang, Duona Zhang, Wenrui Ding
   venue: AAAI
 
 - title: "Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework"
   year: 2025
-  authors: Zirui Song, Jingpu Yang, Yuan Huang, Jonathan Tonglet, Zeyu Zhang, Tao Cheng, Meng Fang, Iryna Gurevych, Xiuying Chen
-  venue: Resubmitted
+  authors: <b>Zirui Song</b>, <b>Jingpu Yang</b>, <b>Yuan Huang</b>, Jonathan Tonglet, Zeyu Zhang, Tao Cheng, Meng Fang, Iryna Gurevych, Xiuying Chen
+  venue: Arxiv
   link:
     url: https://arxiv.org/abs/2502.13759
 
 - title: "BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models"
   year: 2024
-  authors: R Cai, Z Song, D Guan, Z Chen, X Luo, C Yi, A Kot
+  authors: Rizhao Cai†, <b>Zirui Song†</b>, Dayan Guan, Zhenhao Chen, Xing Luo, Chenyu Yi, Alex Kot
   venue: European Conference on Computer Vision
   link:
     url: https://arxiv.org/abs/2312.02896
@@ -27,22 +27,22 @@
 
 - title: "MedINST: Meta Dataset of Biomedical Instructions."
   year: 2024
-  authors: Wenhan Han, Meng Fang, Zihan Zhang, Yu Yin, Zirui Song, Ling Chen, Mykola Pechenizkiy, Qingyu Chen
-  venue: arvix
+  authors: Wenhan Han, Meng Fang, Zihan Zhang, Yu Yin, <b>Zirui Song</b>, Ling Chen, Mykola Pechenizkiy, Qingyu Chen
+  venue: EMNLP
   link:
     url: https://arxiv.org/abs/2410.13458
     code:  https://github.com/aialt/MedINST
 
 - title: "Efficient Reinforcement Learning via Decoupling Exploration and Utilization"
   year: 2024
-  authors: Jingpu Yang, Qirui Zhao, Helin Wang, Yuxiao Huang, Zirui Song, Miao Fang
+  authors: <b>Jingpu Yang</b>, <b>Helin Wang</b>,<b>Qirui Zhao</b> , <b>Zhecheng Shi</b>, <b>Zirui Song</b>, Miao Fang
   venue: Springer Nature
   link:
     url: https://link.springer.com/chapter/10.1007/978-981-97-5581-3_32
 
 - title: "MatchSeg: Towards Better Segmentation via Reference Image Matching"
   year: 2024
-  authors: Jiayu Huo, Ruiqiang Xiao, Haotian Zheng, Yang Liu, Sébastien Ourselin, Rachel Sparks
+  authors: Jiayu Huo†, Ruiqiang Xiao†, <b>Haotian Zheng†<b>, Yang Liu, Sébastien Ourselin, Rachel Sparks
   venue: BIBM
   link:
     url: https://arxiv.org/abs/2403.15901
@@ -50,48 +50,48 @@
 
 - title: "Artificial Intelligence in Pancreatic Image Analysis: A Review"
   year: 2024
-  authors: Weixuan Liu, Bairui Zhang, Tao Liu, Juntao Jiang, Yong Liu
+  authors: <b>Weixuan Liu</b>, <b>Bairui Zhang</b>, Tao Liu, Juntao Jiang, Yong Liu
   venue: Sensors
 
 
 - title: "MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot"
   year: 2024
-  authors: Zirui Song, Yaohang Li, Meng Fang, Zhenhao Chen, Zecheng Shi, Yuan Huang, Ling Chen
+  authors: <b>Zirui Song</b>, Yaohang Li, Meng Fang, Zhenhao Chen, <b>Zecheng Shi</b>, <b>Yuan Huang</b>, Ling Chen
   venue: arXiv
   link:
     url: https://arxiv.org/abs/2404.18074
 
 - title: "Unveiling the power of language models in chemical research question answering"
   year: 2025
-  authors: Xiuying Chen, Tao Wang, Tianyi Guo, Kai Guo, Jie Zhou, Huiying Li, Zirui Song, Xiaohan Gao, Xiangyang Zhang
+  authors: Xiuying Chen, Tao Wang, Tianyi Guo, Kai Guo, Jie Zhou, Huiying Li, <b>Zirui Song</b>, Xiaohan Gao, Xiangyang Zhang
   venue: Communications Chemistry
   link:
     url: https://www.nature.com/articles/s42004-024-01394-x
 
 - title: "Foundations and recent trends in multimodal mobile agents: A survey"
   year: 2024
-  authors: Biao Wu, Yanda Li, Meng Fang, Zirui Song, Zhiwei Zhang, Yunchao Wei, Ling Chen
+  authors: Biao Wu, Yanda Li, Meng Fang, <b>Zirui Song</b>, Zhiwei Zhang, Yunchao Wei, Ling Chen
   venue: arXiv
   link:
     url: https://arxiv.org/abs/2411.02006
 
 - title: "PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection"
   year: 2024
-  authors: Rui Zhao, Zeyu Zhang, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, Zirui Song, Xiuying Chen, Yang Zhao
+  authors: Rui Zhao, Zeyu Zhang, Yi Xu, Yi Yao, Yan Huang, Wenxin Zhang, <b>Zirui Song</b>, Xiuying Chen, Yang Zhao
   venue: arXiv
   link:
     url: https://arxiv.org/abs/2502.14063
 
 - title: "Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey"
   year: 2024
-  authors: Zirui Song, Bin Yan, Yuhan Liu, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
+  authors: <b>Zirui Song†</b>,<b>Bin Yan†</b>, Yuhan Liu, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
   venue: arXiv
   link:
     url: https://arxiv.org/abs/2502.10708
     
 - title: "Frequency Point Game Environment for UAV Path Planning via Large Language Models"
   year: 2025
-  authors: Jingpu Yang, Hang Zhang, Fengxian Ji, Yufeng Wang, Mingjie Wang, Yizhe Luo, Wenrui Ding
+  authors: <b>Jingpu Yang</b>, Hang Zhang, Fengxian Ji, Yufeng Wang, Mingjie Wang, Yizhe Luo, Wenrui Ding
   venue: arXiv
   link:
     url: https://arxiv.org/pdf/2503.44196

@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "UTS NLP"
+excerpt: "NEUQ LIS"
 sitemap: false
 permalink: /allnews.html
 ---

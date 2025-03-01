@@ -1,7 +1,7 @@
 ---
-title: "UTS NLP - Publications"
+title: "NEUQ LIS - Publications"
 layout: gridlay
-excerpt: "UTS NLP -- Publications."
+excerpt: "NEUQ LIS -- Publications."
 sitemap: false
 permalink: /publications/
 ---

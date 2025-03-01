@@ -1,4 +1,4 @@
-# UTS NLP Research Group Website
+# NEUQ LIS Research Group Website
 
 This is the website of our academic research group at the [University of Technology Sydney](https://www.uts.edu.au/). You can access our research group at [utsnlp.github.io](https://utsnlp.github.io/)
 

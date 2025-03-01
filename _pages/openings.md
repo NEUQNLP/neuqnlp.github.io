@@ -1,5 +1,5 @@
 ---
-title: "UTS NLP - Vacancies"
+title: "NEUQ LIS - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

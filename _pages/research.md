@@ -1,7 +1,7 @@
 ---
-title: "UTS NLP - Research"
+title: "NEUQ LIS - Research"
 layout: textlay
-excerpt: "UTS NLP -- Research"
+excerpt: "NEUQ LIS -- Research"
 sitemap: false
 permalink: /research/
 ---

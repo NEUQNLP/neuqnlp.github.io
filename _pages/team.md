@@ -1,7 +1,7 @@
 ---
-title: "UTS NLP - Team"
+title: "NEUQ LIS - Team"
 layout: gridlay
-excerpt: "UTS NLP: Team members"
+excerpt: "NEUQ LIS: Team members"
 sitemap: false
 permalink: /team/
 ---

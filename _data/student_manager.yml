@@ -2,7 +2,7 @@
   photo: jiangqian.jpg
   duration: 2023
   cosupervision:
-  info:
+  info: Remote Assistant at Mohamed bin Zayed University of Artificial Intelligence
   url:
     personal_site: https://pbrqianjiang.github.io/
     google_scholar: 
@@ -13,7 +13,7 @@
   photo: shizhecheng.jpg
   duration: 2022
   cosupervision:
-  info:
+  info: Remote Research Assistant at The Hong Kong University of Science and Technology (Guangzhou)
   url:
     personal_site: 
     google_scholar:
@@ -25,7 +25,7 @@
   photo: yangjingpu.jpg
   duration: 2021
   cosupervision:
-  info:
+  info: Master Student in Beihang University
   url:
     personal_site: 
     google_scholar:
@@ -35,8 +35,8 @@
 - name: Yiqi Duan(Alumni)
   photo: duanyiqi.jpg
   duration: 2020
-  cosupervision:
-  info:
+  cosupervision: 
+  info: Master Student in Beijing Institute of Technology
   url:
     personal_site: 
     google_scholar:

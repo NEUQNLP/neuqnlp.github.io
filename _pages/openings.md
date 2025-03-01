@@ -8,26 +8,19 @@ permalink: /vacancies
 
 # Open positions
 
-We are looking for motivated students who are enthusiastic about natural language processing and machine learning to join our group. If you are interested in our research, feel free to reach out to us!
+1. Strong self-drive, strong learning ability, strong interest in exploration, willing to invest extra time to participate in laboratory scientific research activities for a long time. 
 
-Currently, we are actively recruiting PhD students and providing scholarships (**AUD$32,500/year** for 3.5 years, with waived tuition fees). 
+2. Students who want to master linear algebra and deep learning (no knowledge is also welcome), preferably have done some deep learning projects, and are very welcome to join us if they have published 
+conferences or journals. 
 
-Reach out if you possess: 
-- a robust academic background in computer science, mathematics, or statistics;  
-- extensive experience in conducting research projects; 
-- proficient programming skills (prior engagement in open-source projects is advantageous);
-- a strong passion for research and a self-driven approach. 
+3. We do not limit your major, academic year, as long as you are good enough. 
 
-Please provide the following details: 
-1. CV; 
-2. transcripts; 
-3. English language test results
-
-and send them to <ins>ling.chen@uts.edu.au</ins>.
+If you are interested in us, please send your resume to <ins>pbr52588@gmail.com</ins>. 
+We look forward to working with you
 
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts3.jpg" width="95%">
+<figure style="text-align: center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/robot.jpg" width="50%">
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" width="95%"> -->
 </figure>

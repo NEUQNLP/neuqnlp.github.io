@@ -31,6 +31,27 @@
     github: 
     linkedin: 
 
+- name: Xun Wang
+  photo: wangxun.jpg
+  duration: 2023
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Yu Xie
+  photo: xieyu.png
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
 
 
 
@@ -175,11 +196,11 @@
     linkedin: 
 
 
-- name: Yixuan Wang
+- name: Yixuan Wu
   photo: wangyixuan.jpg
   duration: 2021
   cosupervision:
-  info: Master Studnet in Beijing Institute of Technology
+  info: Master Student in Sun Yat-sen University
   url:
     personal_site: 
     google_scholar: 

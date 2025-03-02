@@ -34,8 +34,8 @@
 
 
 
-- name: Guangxian Ouyang
-  photo: ouyangguangxian.jpg
+- name: Haotian Zheng
+  photo: zhenghaotian.jpg
   duration: 2022
   cosupervision:
   info: 
@@ -44,6 +44,19 @@
     google_scholar: 
     github: 
     linkedin: 
+
+
+- name: Guangxian Ouyang
+  photo: ouyangguangxian.jpg
+  duration: 2022
+  cosupervision:
+  info: 
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?hl=en&user=TqSNZw0AAAAJ
+    github: 
+    linkedin: 
+
 
 
 - name: Fengxian Ji
@@ -163,7 +176,7 @@
 
 
 - name: Yixuan Wang
-  photo: wangxuening.jpg
+  photo: wangyixuan.jpg
   duration: 2021
   cosupervision:
   info: Master Studnet in Beijing Institute of Technology

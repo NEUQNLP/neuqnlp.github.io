@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI.jpg" alt="NEUQ LIS picture" class="home_top_img"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scene.jpg" alt="NEUQ LIS picture" class="home_top_img"> 
 </div>
 
 The [Northeastern University at Qinhuangdao](https://www.neuq.edu.cn/){:target="_blank"} Language and Intelligent Systems (**NEUQ LIS**) group is engaged in research within the field of natural language processing, embodied intelligence, and computer vision, among others.

@@ -21,6 +21,6 @@ We look forward to working with you
 
 
 <figure style="text-align: center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/robot.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Robot.jpg" width="50%">
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uts2.jpeg" width="95%"> -->
 </figure>

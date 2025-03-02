@@ -9,6 +9,8 @@
   year: 2025
   authors: <b>Zehua Han</b>, Jing Xiao, <b>Qirui Zhao</b>, <b>Zhexuan Cui</b>, Yufeng Wang, Duona Zhang, Wenrui Ding
   venue: AAAI 2025
+  link:
+    url: /assets/papers/AAAI2025_OpenRFI.pdf
 
 - title: "Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework"
   year: 2025

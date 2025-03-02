@@ -10,7 +10,7 @@ permalink: /vacancies
 
 1. Strong self-drive, strong learning ability, strong interest in exploration, willing to invest extra time to participate in laboratory scientific research activities for a long time. 
 
-2. Students who want to master linear algebra and deep learning (no knowledge is also welcome), preferably have done some deep learning projects, and are very welcome to join us if they have published 
+2. Students who master linear algebra and deep learning (no knowledge is also welcome), preferably have done some deep learning projects, and are very welcome to join us if they have published 
 conferences or journals. 
 
 3. We do not limit your major, academic year, as long as you are good enough. 

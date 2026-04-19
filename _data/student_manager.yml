@@ -1,3 +1,14 @@
+- name: Wengen Liang
+  photo: liangwengen.jpg
+  duration: 2024
+  cosupervision:
+  info: Undergraduate student
+  url:
+    personal_site: 
+    google_scholar: 
+    github: https://github.com/lemon-gen
+    linkedin: 
+
 - name: Qian Jiang
   photo: jiangqian.jpg
   duration: 2023
@@ -5,7 +16,7 @@
   info: Remote Assistant at Mohamed bin Zayed University of Artificial Intelligence
   url:
     personal_site: https://pbrqianjiang.github.io/
-    google_scholar: 
+    google_scholar: https://scholar.google.com/citations?user=0XHXld8AAAAJ&hl=en
     github: 
     linkedin: 
 

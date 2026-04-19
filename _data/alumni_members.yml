@@ -1,7 +1,107 @@
 
+- name: Zhengzhao Lai
+  photo: laizhengzhao.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Master Student in Chinese University of Hong Kong, Shenzhen 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Helin Wang
+  photo: wanghelin.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Lishui Public Security Bureau
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Jingpu Yang
+  photo: yangjingpu.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Master Studnet In Beihang University 
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Xuening Wang
+  photo: wangxuening.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Master Studnet in Beijing Institute of Technology
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Yixuan Wu
+  photo: wuyixuan.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Master Student in Sun Yat-sen University
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Weixuan Liu
+  photo: liuweixuan.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Master Student in East China Normal University
+  url:
+    personal_site: 
+    google_scholar: 
+    github: 
+    linkedin: 
+
+- name: Jingfeng Wei
+  photo: weijinfeng.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Research Assistant in Hong Kong University of Science and Technology
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?hl=en&user=dgh5ptoAAAAJ
+    github: 
+    linkedin:
+
+- name: Bairui Zhang
+  photo: zhangbairui.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: Student in Chinese University of Hong Kong, Shenzhen 
+  url:
+    personal_site: 
+    google_scholar: https://scholar.google.com/citations?user=NVV0oCAAAAAJ&hl=en
+    github: 
+    linkedin: 
+
+
+- name: Zirui Song
+  photo: ziruisong.jpg
+  duration: 2021 - 2025
+  cosupervision:
+  info: PhD Student in Mohamed bin Zayed University of Artificial Intelligence
+  url:
+    personal_site: https://ziruisongbest.github.io/
+    google_scholar: https://scholar.google.com.sg/citations?hl=en&user=fmKRIPUAAAAJ
+    github: https://github.com/ZiruiSongBest
+    linkedin: https://www.linkedin.com/in/zirui-song-333863289
+
 - name: Zehua Han
   photo: hanzehua.jpg
-  duration: 2020 - 2024)
+  duration: 2020 - 2024
   cosupervision: 
   info: Master Student, Beihang University
   url:
@@ -9,7 +109,6 @@
     google_scholar: 
     github: 
     linkedin: 
-
 
 - name: Longyan Hong
   photo: honglongyan.jpg

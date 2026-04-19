@@ -112,5 +112,23 @@
   link:
     url: https://openreview.net/forum?id=Bc6bwixyVX
 
+- title: "ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models"
+  year: 2026
+  authors: <b>Zirui Song</b>, <b>Guangxian Ouyang</b>, Mingzhe Li, <b>Yuheng Ji</b>, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, <b>Qian Jiang</b>, <b>Zhenhao Chen</b>, Zhongzhi Li, Rui Yan, Xiuying Chen
+  venue: AAAI 2026
+  link:
+    url: https://arxiv.org/pdf/2505.16517
 
+- title: "ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services"
+  year: 2026
+  authors: <b>Fengxian Ji</b>
+  venue: ACL 2026
+  link:
+    url: https://openreview.net/forum?id=bH2JgJdHp0
 
+- title: "Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models"
+  year: 2026
+  authors: <b>Zirui Song</b>, <b>Qian Jiang</b>, <b>Mingxuan Cui</b>, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, <b>Guangxian Ouyang</b>, <b>Zhenhao Chen</b>, Xiuying Chen
+  venue: ACL 2026
+  link:
+    url: https://arxiv.org/abs/2505.15406

@@ -30,7 +30,7 @@ We will give priority to students with relevant experience, including but not li
 * Students who have won awards in related competitions such as informatics, mathematics, physics, etc.
 * Students who have taken relevant courses and achieved excellent results, such as optimization theory, machine learning theory, deep learning, etc.
 
-If you're interested in joining us, please send your resume to <ins>pbr52588@gmail.com</ins>. We look forward to working with you.
+If you're interested in joining us, please send your resume to <ins>nqjsbpsl@gmail.com</ins>. We look forward to working with you.
 
 
 
